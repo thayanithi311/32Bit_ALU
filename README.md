@@ -226,6 +226,18 @@ Steps for simulation – Run the simulation command with simulator options
 ![IMG-20241119-WA0081](https://github.com/user-attachments/assets/19d78056-2b17-4fa1-929e-e2c019efa5aa)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ### Result
 
 The functionality of a 32-bit ALU was successfully verified using a test bench and simulated with the nclaunch tool.
